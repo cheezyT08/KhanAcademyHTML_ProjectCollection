@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Links for learning</title>
+    </head>
+    <body>
+        
+        <h1>Links for learning</h1>
+        
+        <ul>
+            <li><a href= "http://khanacademy.org">Khan Acadamy</a></li>
+            <li><a href= "http://wikipedia.org">Wikipidia</a></li>
+            <li><a href= "http://code.org">Code.org</a></li>
+        </ul>
+
+        <a href= "http:>https://www.khanacademy.org/profile/CheezyChoclit08/"><img src="https://www.kasandbox.org/programming-images/cute/Heart.png"></a>
+        
+    </body>
+</html>
