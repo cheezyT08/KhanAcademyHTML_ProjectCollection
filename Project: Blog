@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+        <style>
+            body {
+                background-color: rgb(107, 107, 107); 
+                color: rgb(255, 255, 255);
+            }
+            
+            a {
+                color: rgb(45, 214, 192);
+                text-decoration: none;
+                font-weight: bold;
+                font-family: helvetica;
+                font-size: 10pt;
+            }
+            
+            #html5-logo {
+                background-color: white;
+                border-top-style: solid;
+            }
+            h1 {
+                font-family: sans-serif;
+            }
+        </style>
+    </head>
+    <body>
+        
+        <h1>YOUR_NAME's blog</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            <li><a href="#post1">First post!</a></li>
+            <li><a href="#post2">Second post!</a></li>
+        </ul>
+        
+        <h2 id="post1">First post</h2>
+        <h5>Whenever you are reading</h5>
+        
+        <p>I am writing a blog. I love guinne pigs, dogs, programing, pizza and ice cream.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Golden_retriever_eating_pigs_foot.jpg" alt="Golden Retriver Pic"  width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Garlic_Fingers.jpg/396px-Garlic_Fingers.jpg" alt="Pizza Pic" width="300">
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" alt="HTML5 Logo" id="html5-logo"  width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/George_the_amazing_guinea_pig.jpg/1200px-George_the_amazing_guinea_pig.jpg" alt="Guinne Pig Pic"  width="270">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ice_cream_with_whipped_cream%2C_chocolate_syrup%2C_and_a_wafer_%28cropped%29.jpg/687px-Ice_cream_with_whipped_cream%2C_chocolate_syrup%2C_and_a_wafer_%28cropped%29.jpg" alt="Ice Cream Pic"  width="270">
+        
+        <h2 id="post1">Second post</h2>
+        <h5>Whenever you are reading</h5>
+        <p id="post2">I ran out of stuff to write.</p>
+    </body>
+</html>
