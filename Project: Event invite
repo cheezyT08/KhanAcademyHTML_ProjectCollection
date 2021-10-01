@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Stuff Your Face Invite</title>
+        <style>
+            #title {
+                text-align: center;
+                border-bottom: 3px solid black;
+            }
+            #container {
+                border: 3px ridge black;
+
+            }
+            body {
+                background-color: rgb(237, 237, 237);
+               
+            }
+            #ice-cream-pic {
+                float: right;
+            }
+            
+            #details {
+                padding: 3px;
+            }
+            
+            a {
+                text-decoration: none;
+                font-weight: bold;
+                color: rgb(255, 0, 0);
+            }
+        </style>
+    </head>
+    <body>
+        
+        <div id="container">
+            <div id="title">
+                <h1>You're invited!</h1>
+                <h2>To stuff your face!</h2>
+            </div>
+            <div id="details">
+            <p>The details:</p>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ice_cream_with_whipped_cream%2C_chocolate_syrup%2C_and_a_wafer_%28cropped%29.jpg/687px-Ice_cream_with_whipped_cream%2C_chocolate_syrup%2C_and_a_wafer_%28cropped%29.jpg" alt="ice cream pic" width="24%" id="ice-cream-pic">
+            <ul>
+                <li>Come ready to gain some weight</li>
+                <li>Bring your credit card</li>
+                <li>Quit any diets you're on</li>
+                <li>Dress casual</li>
+                <li>On october 7th, 7079</li>
+                <li>Please RSVP <a href="https://www.khanacademy.org/profile/CheezyChoclit08/">here</a></li>
+                <li>Directions <a href="https://www.google.com/maps/place/Marble+Slab+Creamery/@32.9545283,-96.8622868,13z/data=!3m1!5s0x864c2136d5197d09:0xe55d7eb4797fdf1a!4m13!1m6!2m5!1sice+cream!5m2!1e1!1e2!6e5!3m5!1s0x864c21313254ef29:0x8d557f6560e570c7!8m2!3d32.9544749!4d-96.8272682!15sCglpY2UgY3JlYW1aCyIJaWNlIGNyZWFtkgEOaWNlX2NyZWFtX3Nob3A">here</a></li>
+                <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</p>
+            </ul>
+            </div>
+        </div>
+        
+    </body>
+</html>
